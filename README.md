@@ -93,6 +93,10 @@ Inheritance is applied in this project through the class structure. `ClothingIte
 ## 🎭 Polymorphism
 Polymorphism is demonstrated when checking whether selected clothing items fit the user’s body type. All selected items are stored under the same reference type `ClothingItem`, but they override the method `isRecommendedFor(bodyType)`.
 
+# ⋆.𐙚 ̊ Example output
+
+
+
 # 𐔌 ⋮ Contributors ₊ ꒱
 
 | Photo | Name | Role |
