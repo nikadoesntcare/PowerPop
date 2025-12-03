@@ -16,9 +16,9 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 # ᛝ‧₊˚┆ Project structure 〢
 
 📂 src/
-└── ☕ Project.java
+└── ☕ Project.java // Main program
 
-#**༄.° How to Run the Program 𖦹˙—**
+**༄.° How to Run the Program 𖦹˙—**
 
 1. Open your terminal.
 2. Navigate to the folder where **Project.java** is located:
