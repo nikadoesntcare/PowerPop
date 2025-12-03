@@ -31,6 +31,10 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 
 # 𐔌՞. .՞𐦯 OOP - Principles
 
+## 🧬 Inheritance
+Inheritance is applied in this project through the class structure. `ClothingItem` serves as the parent class for all outfit categories such as `Top`, `Bottom`, and `Accessory`.It inherited shared features (such as `name` and `type`) so, these subclasses only need to define their specific rules. 
+## 🎭 Polymorphism
+Polymorphism is demonstrated when checking whether selected clothing items fit the user’s body type. All selected items are stored under the same reference type `ClothingItem`, but they override the method `isRecommendedFor(bodyType)`.
 
 # ⤷ ゛ Features ˎˊ˗
 1. **Enter Personal Information.** Input name and age to create a user profile.  
@@ -46,9 +50,9 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 
 | Photo | Name | Role |
 |-------|------|------|
-| <img src="nika.png" width="120"> | Annika M. Dimaculangan | Role |
-| <img src="alyka.png" width="120"> | Alyka Denise A. Maralit | Role |
-| <img src="maryse.png" width="120"> | Allana Maryse R. Mendoza | Role |
+| <img src="nika.png" width="120"> | Annika M. Dimaculangan | Project Leader / System Architecte |
+| <img src="alyka.png" width="120"> | Alyka Denise A. Maralit | File Handling Specialist / Output Coordinator |
+| <img src="maryse.png" width="120"> | Allana Maryse R. Mendoza | Feature Developer / Concept Designer |
 
 # ᯓ 𑣲 : Acknowledgement ꩜⋆˚
 
