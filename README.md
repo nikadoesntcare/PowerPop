@@ -38,8 +38,8 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 | Photo | Name | Role |
 |-------|------|------|
 | <img src="nika.png" width="120"> | Annika M. Dimaculangan | Role |
-| <img src="591182848_1364365905480124_3679963119044280708_n.jpg" width="120"> | Alyka Denise A. Maralit | Role |
-| <img src="591134870_1383697629954884_7052974268901374149_n.jpg" width="120"> | Allana Maryse R. Mendoza | Role |
+| <img src="alyka.png" width="120"> | Alyka Denise A. Maralit | Role |
+| <img src="maryse.png" width="120"> | Allana Maryse R. Mendoza | Role |
 
 # ᯓ 𑣲 : Acknowledgement ꩜⋆˚
 
