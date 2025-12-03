@@ -19,13 +19,13 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
        └── ☕ Project.java
 
 
-# ༄.° How to Run the Program 𖦹˙—
+# ༄.° How to Run the Program 𖦹˙—  
 1. Open your terminal.  
 2. Navigate to the folder where **Project.java** is located:  
 3. Compile the program:
-   
+  
           javac Project.java
-5. Run the program:
+6. Run the program:
    
           java Project
 
