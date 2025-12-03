@@ -7,7 +7,7 @@ public class Project {
         Scanner sc = new Scanner(System.in);
 
         try {
-            System.out.println("======== 👗 WELCOME TO POWER POP 👠 ========");
+            System.out.println("======== 👗 WELCOME TO COLOR & FIT POP 👠 ========");
             System.out.println("\nPlease enter your Personal Information here:");
             System.out.print("Enter name: ");
             String name = sc.nextLine();
