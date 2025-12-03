@@ -200,8 +200,8 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
 | Photo | Name | Role |
 |-------|------|------|
 | <img src="pix/nika.png" width="120"> | Annika M. Dimaculangan | Project Leader / System Architecte |
-| <img src="pix/alyka.jpg" width="120"> | Alyka Denise A. Maralit | File Handling Specialist / Output Coordinator |
-| <img src="pix/allana.png" width="120"> | Allana Maryse R. Mendoza | Feature Developer / Concept Designer |
+| <img src="pix/alyka.png" width="120"> | Alyka Denise A. Maralit | File Handling Specialist / Output Coordinator |
+| <img src="pix/maryse.png" width="120"> | Allana Maryse R. Mendoza | Feature Developer / Concept Designer |
 
 # ᯓ 𑣲 : Acknowledgement ꩜⋆˚
 
