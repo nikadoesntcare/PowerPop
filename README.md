@@ -186,7 +186,7 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
      C - Result  
      Pick your choice: C  
 
-     ============ 🌟 FINAL RESULT 👠 =============  
+     ============ 👗 FINAL RESULT 👠 =============  
      ✨ Your outfit is good — a few improvements can make it better!  
 
      Thanks for styling with us, Allana! 💖  
