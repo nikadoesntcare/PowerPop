@@ -16,7 +16,15 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 # ᛝ‧₊˚┆ Project structure 〢
 
      📂 src/  
-       └── ☕ Project.java
+     └── 📂 powerpop/
+         ├── ☕ Project.java 
+         ├── ☕ UserInfo.java
+         ├── ☕ UndertoneDetector.java
+         ├── ☕ SeasonalColor.java
+         ├── ☕ BodyTypeFinder.java
+         ├── ☕ ClothingItem.java
+         └── ☕ Catalog.java
+
 
 
 # ༄.° How to Run the Program 𖦹˙—  
