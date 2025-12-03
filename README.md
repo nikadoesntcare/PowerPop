@@ -16,7 +16,11 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 # ᛝ‧₊˚┆ Project structure 〢
 
 📂 src/
-└── ☕ Project.java // Main program
+
+
+
+
+└── ☕ Project.java
 
 **༄.° How to Run the Program 𖦹˙—**
 
