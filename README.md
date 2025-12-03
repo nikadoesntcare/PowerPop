@@ -30,6 +30,45 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
           java Project
 
 # 𐔌՞. .՞𐦯 OOP - Principles
+## 🔐 **Encapsulation**
+
+Encapsulation was applied mainly in the **UserInfo class**, where the fields `name` and `age` are made private and accessed only through public setter and getter methods, ensuring the data is protected and controlled.
+
+     
+    class UserInfo {
+    private String name;
+    private int age;
+
+    public void setUserInfo(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+The `setter` was used here `setUserInfo`, this method takes the values typed by the user and stores them inside the object.
+
+    public String getName() { return name; }
+    public int getAge() { return age; }}
+            
+The `getters` was used here to allow other parts of the code to read the private data. But they still cannot access the variables directly — they must ask the class through these methods.
+
+     System.out.println("Thanks for styling with us, " + user.getName() + "! 💖");
+
+## ✨ **Abstraction**
+
+Abstraction was applied through the abstract class `ClothingItem`, which hides common details (like name and type) and forces subclasses (`Top`, `Bottom`, `Accessory`) to implement the abstract method `isRecommendedFor()`, exposing only what is essential while hiding the internal logic of each clothing type.
+
+abstract class ClothingItem {
+    protected String name;
+    protected String type;
+
+    ClothingItem(String name, String type) {
+        this.name = name;
+        this.type = type;
+    }
+
+    public String getName() { return name; }
+
+    public abstract boolean isRecommendedFor(String bodyType);}}
 
 ## 🧬 Inheritance
 Inheritance is applied in this project through the class structure. `ClothingItem` serves as the parent class for all outfit categories such as `Top`, `Bottom`, and `Accessory`.It inherited shared features (such as `name` and `type`) so, these subclasses only need to define their specific rules. 
@@ -58,7 +97,4 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
 
 We would like to express our heartfelt gratitude to everyone who supported us throughout the completion of our OOP project, Power POP! Our sincerest thanks go to our instructor, **Ma'am Grace Alib**, for her invaluable guidance, encouragement, and support. We are also deeply grateful to our friends for their unwavering support from start to finish. ✧₊⁺
 
-# ◟♯  Disclaimer
-
-This project and its contents are intended solely for demonstration and learning purposes. While the program aims to provide helpful results, we cannot guarantee 100% accuracy at all times. Users are advised to treat this as a temporary tool and not a fully reliable final solution.
 
