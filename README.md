@@ -88,8 +88,41 @@ abstract class ClothingItem {
 
 ## 🧬 Inheritance
 Inheritance is applied in this project through the class structure. `ClothingItem` serves as the parent class for all outfit categories such as `Top`, `Bottom`, and `Accessory`.It inherited shared features (such as `name` and `type`) so, these subclasses only need to define their specific rules. 
+
+abstract class ClothingItem {
+    protected String name;
+    protected String type;
+
+    ClothingItem(String name, String type) {
+        this.name = name;
+        this.type = type;
+    }
+
+    public String getName() { return name; }
+    public abstract boolean isRecommendedFor(String bodyType);
+}
+
+     class Top extends ClothingItem {
+         Top(String name) { super(name, "Top"); }
+         @Override
+         public boolean isRecommendedFor(String bodyType) { }
+     }
+     class Bottom extends ClothingItem { }
+     class Accessory extends ClothingItem { }
+ 
+ 
 ## 🎭 Polymorphism
 Polymorphism is demonstrated when checking whether selected clothing items fit the user’s body type. All selected items are stored under the same reference type `ClothingItem`, but they override the method `isRecommendedFor(bodyType)`.
+
+     ClothingItem selectedTop = null, selectedBottom = null, acc1 = null;
+
+     selectedTop = getItem(sc, "\nEnter TOP number: ");
+     selectedBottom = getItem(sc, "Enter BOTTOM number: ");
+     acc1 = getItem(sc, "Enter Accessory (1) number: ");
+
+     if (selectedTop != null && selectedTop.isRecommendedFor(bodyType)) score++;
+     if (selectedBottom != null && selectedBottom.isRecommendedFor(bodyType)) score++;
+     if (acc1 != null && acc1.isRecommendedFor(bodyType)) score++;
 
 # ⋆.𐙚 ̊ Example output
 
