@@ -126,6 +126,70 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
 
 # ⋆.𐙚 ̊ Example output
 
+Please enter your Personal Information here:  
+Enter name: Allana  
+Enter age: 19  
+
+==== 🔲 LET US KNOW YOUR UNDERTONE 🔲 ====  
+
+Vein color (green/blue/purple)?: purple  
+Preferred jewelry (gold/silver)?: gold  
+Paper reflection (yellowish/white)?: yellowish  
+Your undertone is: Cool  
+
+==== 🍂 LET US KNOW YOUR SEASONAL COLOR 🍁 ====  
+Hair color (light/dark): light  
+Eyes color (light/dark): dark  
+Skin depth (light/medium/deep): light  
+Your Seasonal Color Type is: Winter  
+
+==== ✂️ BODY MEASUREMENT ✂️ ====  
+Bust (inch): 31  
+Waist (inch): 30  
+Hips (inch): 26  
+Your body type is: Inverted Triangle  
+
+===== MENU =====  
+A - Show Catalog Table  
+B - Choose Outfit  
+C - Result  
+Pick your choice: A  
+
+============================= CATALOG TABLE ==============================
+👕 TOPS                    👖 BOTTOMS                 👓 ACCESSORIES
+---------------------------------------------------------------------- 
+1.  V-neck                  9.  Straight Jeans         15. Stud Earrings  
+2.  Sleeveless              10. Wide-leg Jeans         16. Hoop Earrings  
+3.  Wrap Top                11. Skinny Jeans           17. Long Necklace  
+4.  Tube Top                12. A-line Skirt           18. Short Necklace  
+5.  Crop Top                13. Pencil Skirt           19. Belt  
+6.  Peplum Top              14. Pleated Skirt          20. Scarf  
+7.  Off-Shoulder  
+8.  Button-down Shirt  
+
+
+===== MENU =====  
+A - Show Catalog Table  
+B - Choose Outfit  
+C - Result  
+Pick your choice: B  
+Enter top number: 4  
+Enter bottom number: 14  
+Enter Accessory 1 number: 19  
+Second accessory? (yes/no): yes  
+Enter Accessory 2 number: 20  
+Outfit color: white  
+
+===== MENU =====  
+A - Show Catalog Table  
+B - Choose Outfit  
+C - Result  
+Pick your choice: C  
+
+============ 🌟 FINAL RESULT 🌟 =============  
+✨ Your outfit is good — a few improvements can make it better!  
+
+Thanks for styling with us, Allana! 💖  
 
 
 # 𐔌 ⋮ Contributors ₊ ꒱
