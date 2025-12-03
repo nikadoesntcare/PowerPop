@@ -35,3 +35,7 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 # ᯓ 𑣲 : Acknowledgement ꩜⋆˚
 
 We would like to express our deepest gratitude to everyone who supported us throughout the completion of our OOP project **Power POP!** To our instructor, **Ma'am Grace Alib**, for the guidance, acknowledgement, and support. To our friends — thank you for the unwavering effort, and support you shared from start to finish. ✧₊⁺
+
+# **◟♯  Disclaimer**
+
+This project and its contents are provided for example and learning purposes only. We cannot guarantee that the program will provide a 100% accurate results. Users are advised to use this project as a temporary alternative.
