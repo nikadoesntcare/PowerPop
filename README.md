@@ -28,7 +28,17 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 6. Run the program:
    
           java Project
-
+   
+# ⤷ ゛ Features ˎˊ˗
+1. **Enter Personal Information.** Input name and age to create a user profile.  
+2. **Determine Undertone.** Identify skin undertone (Warm, Cool, Neutral) by answering questions about vein color, jewelry preference, and paper reflection.  
+3. **Discover Seasonal Color Type.** Find seasonal color category (Winter, Summer, Spring, Autumn, Soft Summer, Soft Autumn) based on undertone, hair color, eye color, and skin depth.  
+4. **Identify Body Type.** Calculate body type (Inverted Triangle, Pear, Hourglass, Rectangle) using bust, waist, and hip measurements.  
+5. **Browse Catalog.** View a complete list of tops, bottoms, and accessories in a neatly organized table.  
+6. **Select Outfit.** Choose tops, bottoms, and up to two accessories to create an outfit.  
+7. **Input Outfit Color.** Enter the planned outfit color to check if it matches your undertone.  
+8. **Receive outfit Feedback.** Get a final evaluation of your outfit’s compatibility with your body type and undertone, including a score-based recommendation.
+   
 # 𐔌՞. .՞𐦯 OOP - Principles
 ## 🔐 **Encapsulation**
 
@@ -74,16 +84,6 @@ abstract class ClothingItem {
 Inheritance is applied in this project through the class structure. `ClothingItem` serves as the parent class for all outfit categories such as `Top`, `Bottom`, and `Accessory`.It inherited shared features (such as `name` and `type`) so, these subclasses only need to define their specific rules. 
 ## 🎭 Polymorphism
 Polymorphism is demonstrated when checking whether selected clothing items fit the user’s body type. All selected items are stored under the same reference type `ClothingItem`, but they override the method `isRecommendedFor(bodyType)`.
-
-# ⤷ ゛ Features ˎˊ˗
-1. **Enter Personal Information.** Input name and age to create a user profile.  
-2. **Determine Undertone.** Identify skin undertone (Warm, Cool, Neutral) by answering questions about vein color, jewelry preference, and paper reflection.  
-3. **Discover Seasonal Color Type.** Find seasonal color category (Winter, Summer, Spring, Autumn, Soft Summer, Soft Autumn) based on undertone, hair color, eye color, and skin depth.  
-4. **Identify Body Type.** Calculate body type (Inverted Triangle, Pear, Hourglass, Rectangle) using bust, waist, and hip measurements.  
-5. **Browse Catalog.** View a complete list of tops, bottoms, and accessories in a neatly organized table.  
-6. **Select Outfit.** Choose tops, bottoms, and up to two accessories to create an outfit.  
-7. **Input Outfit Color.** Enter the planned outfit color to check if it matches your undertone.  
-8. **Receive outfit Feedback.** Get a final evaluation of your outfit’s compatibility with your body type and undertone, including a score-based recommendation.  
 
 # 𐔌 ⋮ Contributors ₊ ꒱
 
