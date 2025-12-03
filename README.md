@@ -126,6 +126,7 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
 
 # ⋆.𐙚 ̊ Example output
 
+     ======== 👗 WELCOME TO COLOR & FIT POP 👠 ========
  Please enter your Personal Information here:  
      Enter name: Allana  
      Enter age: 19  
