@@ -17,25 +17,25 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 
      📂 src/  
      └── 📂 powerpop/
-         ├── ☕ Project.java 
-         ├── ☕ UserInfo.java
-         ├── ☕ UndertoneDetector.java
-         ├── ☕ SeasonalColor.java
-         ├── ☕ BodyTypeFinder.java
-         ├── ☕ ClothingItem.java
-         └── ☕ Catalog.java
+         ├── Project.java 
+         ├── UserInfo.java
+         ├── UndertoneDetector.java
+         ├── SeasonalColor.java
+         ├── BodyTypeFinder.java
+         ├── ClothingItem.java
+         └── Catalog.java
 
 
 
 # ༄.° How to Run the Program 𖦹˙—  
-1. Open your terminal.  
-2. Navigate to the folder where **Project.java** is located:  
-3. Compile the program:
-  
-          javac Project.java
-6. Run the program:
-   
-          java Project
+1. Open your terminal in the `src/` folder.  
+2. Compile all Java files in the `powerpop` package:  
+
+       javac powerpop/*.java
+
+3. Run the program using:  
+
+       java powerpop.Project
    
 # ⤷ ゛ Features ˎˊ˗
 1. **Enter Personal Information.** Input name and age to create a user profile.  
