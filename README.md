@@ -30,12 +30,10 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 # ༄.° How to Run the Program 𖦹˙—  
 1. Open your terminal in the `src/` folder.  
 2. Compile all Java files in the `powerpop` package:  
-
-       javac powerpop/*.java
+       `javac powerpop/*.java`
 
 3. Run the program using:  
-
-       java powerpop.Project
+       `java powerpop.Project`
    
 # ⤷ ゛ Features ˎˊ˗
 1. 👤 **Enter Personal Information.** Input name and age to create a user profile.  
