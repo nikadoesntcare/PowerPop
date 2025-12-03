@@ -116,9 +116,9 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
 
      ClothingItem selectedTop = null, selectedBottom = null, acc1 = null;
 
-     selectedTop = getItem(sc, "\nEnter TOP number: ");
-     selectedBottom = getItem(sc, "Enter BOTTOM number: ");
-     acc1 = getItem(sc, "Enter Accessory (1) number: ");
+     selectedTop = getItem(sc, "\nEnter top number: ");
+     selectedBottom = getItem(sc, "Enter bottom number: ");
+     acc1 = getItem(sc, "Enter Accessory 1 number: ");
 
      if (selectedTop != null && selectedTop.isRecommendedFor(bodyType)) score++;
      if (selectedBottom != null && selectedBottom.isRecommendedFor(bodyType)) score++;
