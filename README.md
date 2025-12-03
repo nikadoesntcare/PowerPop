@@ -16,7 +16,14 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 # ᛝ‧₊˚┆ Project structure 〢
 
 
+#**༄.° How to Run the Program 𖦹˙—**
 
+1. Open your terminal.
+2. Navigate to the folder where **Project.java** is located:
+3. Compile the program:
+     ⤷ javac Project.java
+4. Run the program:
+     ⤷ java Project
 
 # 𐔌՞. .՞𐦯 OOP - Principles
 
@@ -39,3 +46,4 @@ We would like to express our deepest gratitude to everyone who supported us thro
 # **◟♯  Disclaimer**
 
 This project and its contents are provided for example and learning purposes only. We cannot guarantee that the program will provide a 100% accurate results. Users are advised to use this project as a temporary alternative.
+
