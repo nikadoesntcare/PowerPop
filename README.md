@@ -35,7 +35,7 @@ Overall, it aims to make color analysis fun, practical, and easy to understand f
 3. Run the program using:  
        `java powerpop.Project`
    
-# ⤷ ゛ Features ˎˊ˗
+# ⤷ ゛Features ˎˊ˗
 1. 👤 **Enter Personal Information.** Input name and age to create a user profile.  
 2. 👩🏻 **Determine Undertone.** Identify skin undertone (Warm, Cool, Neutral) by answering questions about vein color, jewelry preference, and paper reflection.  
 3. 🌸 **Discover Seasonal Color Type.** Find seasonal color category (Winter, Summer, Spring, Autumn, Soft Summer, Soft Autumn) based on undertone, hair color, eye color, and skin depth.  
@@ -199,7 +199,7 @@ Polymorphism is demonstrated when checking whether selected clothing items fit t
 
 | Photo | Name | Role |
 |-------|------|------|
-| <img src="pix/nika.png" width="120"> | Annika M. Dimaculangan | Project Leader / System Architecte |
+| <img src="pix/nika.png" width="120"> | Annika M. Dimaculangan | Project Leader / System Architect |
 | <img src="pix/alyka.png" width="120"> | Alyka Denise A. Maralit | File Handling Specialist / Output Coordinator |
 | <img src="pix/allana.png" width="120"> | Allana Maryse R. Mendoza | Feature Developer / Concept Designer |
 
